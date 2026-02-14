@@ -1,0 +1,58 @@
+*,
+html{
+    margin: 0px;
+}
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+ 
+
+.konten{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.isi-konten{
+   
+    border: 1px solid black;
+        text-align: center;
+        color: white;
+        background-color: black;
+        width: 660px;
+        height: 400px;
+        font-size: 2rem;
+        font-family: "Poppins", sans-serif;
+            font-weight: 100;
+            font-style: normal;
+       border-radius: 10px;
+        
+        
+}
+
+#output-jam{
+    position: relative;
+    top: 90px;
+}
+
+.tombol1{
+    position: relative;
+    top: 140px;
+    font-size: 2rem;
+    background-color: rgba(89, 73, 73, 0.259);
+    color : white;
+    font-family: "Poppins",sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    border-radius: 10px;
+}
+
+#waktu-dipilih{
+    position: relative;
+    top: 60px;
+}
+ 
