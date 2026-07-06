@@ -237,11 +237,12 @@ body {
 .tracker-form__input:focus {
   border-color: var(--accent-blue);
   background: var(--bg-card);
+   color: #ffffff;
 }
 
 .tracker-form__submit {
   background: var(--text-dark);
-  color: #fff;
+  color: #0e0e12;
   border: none;
   padding: 0.85rem 1.5rem;
   height: 44px;
